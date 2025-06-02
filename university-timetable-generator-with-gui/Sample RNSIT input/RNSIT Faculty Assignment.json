@@ -1,0 +1,544 @@
+[
+    "November",
+    2024,
+    "May",
+    2025,
+    "Artificial Intelligence and Machine Learning",
+    [
+        "faculty_class('Andhe Pallavi', 'Dr.', 'Head Of Department')",
+        "faculty_class('Anupriya', 'Ms.', 'Assistant Professor')",
+        "faculty_class('Apoorva MS', 'Ms.', 'Assistant Professor')",
+        "faculty_class('Ashwini K', 'Ms.', 'Assistant Professor')",
+        "faculty_class('Harsha S', 'Dr.', 'Associate Professor')",
+        "faculty_class('Jalapreetha J', 'Ms.', 'Assistant Professor')",
+        "faculty_class('K V Rama Satish', 'Dr.', 'Associate Professor')",
+        "faculty_class('Kavyashree H L', 'Ms.', 'Assistant Professor')",
+        "faculty_class('Mallikarjun H M', 'Dr.', 'Assistant Professor')",
+        "faculty_class('Mamatha S K', 'Dr.', 'Assistant Professor')",
+        "faculty_class('Manisha Mehta', 'Ms.', 'Assistant Professor')",
+        "faculty_class('Manjuprakash R', 'Mr.', 'Professor of Practice')",
+        "faculty_class('Math Faculty', 'Mrs.', 'Associate Professor')",
+        "faculty_class('N. Deepashree', 'Ms.', 'Assistant Professor')",
+        "faculty_class('Narendra Kumar', 'Dr.', 'Assistant Professor')",
+        "faculty_class('Pavithra G S', 'Dr.', 'Associate Professor')",
+        "faculty_class('Pooja M', 'Ms.', 'Assistant Professor')",
+        "faculty_class('Poornima H S', 'Ms.', 'Assistant Professor')",
+        "faculty_class('Priyanga P', 'Dr.', 'Associate Professor')",
+        "faculty_class('Rajesh Eswarawaka', 'Dr.', 'Professor')",
+        "faculty_class('Ramesh Babu H S', 'Dr.', 'Principal')",
+        "faculty_class('Rashmi B C', 'Ms.', 'Assistant Professor')",
+        "faculty_class('Sajitha N', 'Ms.', 'Assistant Professor')",
+        "faculty_class('Seema G S', 'Ms.', 'Assistant Professor')",
+        "faculty_class('Shruthi U', 'Dr.', 'Assistant Professor')",
+        "faculty_class('Soumya Tarapur', 'Ms.', 'Assistant Professor')",
+        "faculty_class('Suhasini Bagalkot', 'Ms.', 'Assistant Professor')",
+        "faculty_class('Usha M', 'Dr.', 'Assistant Professor')",
+        "faculty_class('Vani Zunjarwad', 'Ms.', 'Assistant Professor')",
+        "faculty_class('Vinutha D', 'Ms.', 'Assistant Professor')"
+    ],
+    {
+        "III": [
+            "subject('Analog and Digital Electronics', 'ADE', 6, False, '21CS33')",
+            "subject('Balake Kannada', 'BK', 3, False, '21KBK37')",
+            "subject('Social Connect and Responsibility', 'SCR', 3, False, '21UH36')",
+            "subject('Programming in C++', 'CPP', 3, False, '21CS382')",
+            "subject('Computer Organization and Architecture', 'COA', 5, False, '21CS34')",
+            "subject('Transform Calculus, Fourier Series and Numerical Techniques', 'Maths', 5, False, '21MAT31')",
+            "subject('Object Oriented Programming with JAVA Laboratory', 'OOPS java', 3, False, '21CSL35')",
+            "subject('Data Structures and its Applications', 'DSA', 6, False, '21CS32')"
+        ],
+        "IV": [],
+        "V": [
+            "subject('Principles of Artificial Intelligence', 'PAI', 5, False, '21AI54')",
+            "subject('Database Management Systems', 'DBMS', 5, False, '21CS53')",
+            "subject('Computer Networks', 'CN', 6, False, '21CS52')",
+            "subject('Angular JS', 'AJS', 3, False, '21CSL581')",
+            "subject('Research Methodology & Intellectual Property Rights', 'RMIP', 4, False, '21RM56')",
+            "subject('Environmental Studies', 'EVS', 3, False, '21CIV57')",
+            "subject('Database Management Systems Laboratory with Mini Project', 'DBMS Lab', 3, False, '21CSL55')",
+            "subject('Automata Theory and compiler Design', 'ATC', 5, False, '21CS51')"
+        ],
+        "VI": [],
+        "VII": [
+            "subject('Cloud Computing', 'CC', 4, False, '21CS72')",
+            "subject('Introduction to Big Data', 'BD', 5, False, '21CS753')",
+            "subject('Advanced AI and ML', 'AIML', 5, False, '21AI71')",
+            "subject('Social Network Analysis', 'SNA', 5, False, '21AI731')",
+            "subject('NoSQL Data Base', 'NoSQL', 5, False, '21CS745')"
+        ],
+        "VIII": []
+    },
+    {
+        "VII": 3,
+        "VI": 0,
+        "III": 3,
+        "VIII": 0,
+        "V": 3,
+        "IV": 0
+    },
+    {
+        "VII": [
+            "A",
+            "B",
+            "C"
+        ],
+        "VI": [],
+        "III": [
+            "A",
+            "B",
+            "C"
+        ],
+        "VIII": [],
+        "V": [
+            "A",
+            "B",
+            "C"
+        ],
+        "IV": []
+    },
+    {
+        "III": {
+            "B": [
+                "Transform Calculus, Fourier Series and Numerical Techniques - Maths - Math Faculty",
+                "Data Structures and its Applications - DSA - Andhe Pallavi",
+                "Analog and Digital Electronics - ADE - Harsha S",
+                "Computer Organization and Architecture - COA - Mamatha S K",
+                "Object Oriented Programming with JAVA Laboratory - OOPS java - Priyanga P",
+                "Social Connect and Responsibility - SCR - Anupriya",
+                "Balake Kannada - BK - Jalapreetha J",
+                "Programming in C++ - CPP - N. Deepashree"
+            ],
+            "A": [
+                "Transform Calculus, Fourier Series and Numerical Techniques - Maths - Math Faculty",
+                "Data Structures and its Applications - DSA - Ramesh Babu H S",
+                "Analog and Digital Electronics - ADE - Rajesh Eswarawaka",
+                "Computer Organization and Architecture - COA - Mallikarjun H M",
+                "Object Oriented Programming with JAVA Laboratory - OOPS java - Pavithra G S",
+                "Social Connect and Responsibility - SCR - Usha M",
+                "Samskrutika Kannada - BK - Ashwini K",
+                "Programming in C++ - CPP - Manisha Mehta"
+            ],
+            "C": [
+                "Transform Calculus, Fourier Series and Numerical Techniques - Maths - Math Faculty",
+                "Data Structures and its Applications - DSA - Manjuprakash R",
+                "Analog and Digital Electronics - ADE - K V Rama Satish",
+                "Computer Organization and Architecture - COA - Narendra Kumar",
+                "Object Oriented Programming with JAVA Laboratory - OOPS java - Shruthi U",
+                "Social Connect and Responsibility - SCR - Apoorva MS",
+                "Balake Kannada - BK - Kavyashree H L",
+                "Programming in C++ - CPP - Pooja M"
+            ]
+        },
+        "VI": {},
+        "VII": {
+            "B": [
+                "Advanced AI and ML - AIML - Pooja M",
+                "Cloud Computing - CC - Sajitha N",
+                "Social Network Analysis - SNA - Suhasini Bagalkot",
+                "NoSQL Data Base - NoSQL - Seema G S",
+                "Introduction to Big Data - BD - Vani Zunjarwad"
+            ],
+            "A": [
+                "Advanced AI and ML - AIML - N. Deepashree",
+                "Cloud Computing - CC - Rashmi B C",
+                "Social Network Analysis - SNA - Soumya Tarapur",
+                "NoSQL Data Base - NoSQL - Vinutha D",
+                "Introduction to Big Data - BD - Suhasini Bagalkot"
+            ],
+            "C": [
+                "Advanced AI and ML - AIML - Poornima H S",
+                "Cloud Computing - CC - Seema G S",
+                "Social Network Analysis - SNA - Vani Zunjarwad",
+                "NoSQL Data Base - NoSQL - Soumya Tarapur",
+                "Introduction to Big Data - BD - Vinutha D"
+            ]
+        },
+        "VIII": {},
+        "V": {
+            "B": [
+                "Automata Theory and compiler Design - ATC - Rashmi B C",
+                "Computer Networks - CN - Soumya Tarapur",
+                "Database Management Systems - DBMS - Vinutha D",
+                "Principles of Artificial Intelligence - PAI - Manjuprakash R",
+                "Database Management Systems Laboratory with Mini Project - DBMS Lab - K V Rama Satish",
+                "Research Methodology & Intellectual Property Rights - RMIP - Narendra Kumar",
+                "Environmental Studies - EVS - Shruthi U",
+                "Angular JS - AJS - Apoorva MS"
+            ],
+            "A": [
+                "Automata Theory and compiler Design - ATC - Poornima H S",
+                "Computer Networks - CN - Seema G S",
+                "Database Management Systems - DBMS - Vani Zunjarwad",
+                "Principles of Artificial Intelligence - PAI - Andhe Pallavi",
+                "Database Management Systems Laboratory with Mini Project - DBMS Lab - Harsha S",
+                "Research Methodology & Intellectual Property Rights - RMIP - Mamatha S K",
+                "Environmental Studies - EVS - Priyanga P",
+                "Angular JS - AJS - Anupriya"
+            ],
+            "C": [
+                "Automata Theory and compiler Design - ATC - Sajitha N",
+                "Computer Networks - CN - Suhasini Bagalkot",
+                "Database Management Systems - DBMS - Ramesh Babu H S",
+                "Principles of Artificial Intelligence - PAI - Rajesh Eswarawaka",
+                "Database Management Systems Laboratory with Mini Project - DBMS Lab - Mallikarjun H M",
+                "Research Methodology & Intellectual Property Rights - RMIP - Pavithra G S",
+                "Environmental Studies - EVS - Usha M",
+                "Angular JS - AJS - Ashwini K"
+            ]
+        },
+        "IV": {}
+    },
+    {
+        "Math Faculty": [
+            "Transform Calculus, Fourier Series and Numerical Techniques - Maths - III A",
+            "Transform Calculus, Fourier Series and Numerical Techniques - Maths - III B",
+            "Transform Calculus, Fourier Series and Numerical Techniques - Maths - III C"
+        ],
+        "Ramesh Babu H S": [
+            "Data Structures and its Applications - DSA - III A",
+            "Database Management Systems - DBMS - V C"
+        ],
+        "Andhe Pallavi": [
+            "Data Structures and its Applications - DSA - III B",
+            "Principles of Artificial Intelligence - PAI - V A"
+        ],
+        "Manjuprakash R": [
+            "Data Structures and its Applications - DSA - III C",
+            "Principles of Artificial Intelligence - PAI - V B"
+        ],
+        "Rajesh Eswarawaka": [
+            "Analog and Digital Electronics - ADE - III A",
+            "Principles of Artificial Intelligence - PAI - V C"
+        ],
+        "Harsha S": [
+            "Analog and Digital Electronics - ADE - III B",
+            "Database Management Systems Laboratory with Mini Project - DBMS Lab - V A"
+        ],
+        "K V Rama Satish": [
+            "Analog and Digital Electronics - ADE - III C",
+            "Database Management Systems Laboratory with Mini Project - DBMS Lab - V B"
+        ],
+        "Mallikarjun H M": [
+            "Computer Organization and Architecture - COA - III A",
+            "Database Management Systems Laboratory with Mini Project - DBMS Lab - V C"
+        ],
+        "Mamatha S K": [
+            "Computer Organization and Architecture - COA - III B",
+            "Research Methodology & Intellectual Property Rights - RMIP - V A"
+        ],
+        "Narendra Kumar": [
+            "Computer Organization and Architecture - COA - III C",
+            "Research Methodology & Intellectual Property Rights - RMIP - V B"
+        ],
+        "Pavithra G S": [
+            "Object Oriented Programming with JAVA Laboratory - OOPS java - III A",
+            "Research Methodology & Intellectual Property Rights - RMIP - V C"
+        ],
+        "Priyanga P": [
+            "Object Oriented Programming with JAVA Laboratory - OOPS java - III B",
+            "Environmental Studies - EVS - V A"
+        ],
+        "Shruthi U": [
+            "Object Oriented Programming with JAVA Laboratory - OOPS java - III C",
+            "Environmental Studies - EVS - V B"
+        ],
+        "Usha M": [
+            "Social Connect and Responsibility - SCR - III A",
+            "Environmental Studies - EVS - V C"
+        ],
+        "Anupriya": [
+            "Social Connect and Responsibility - SCR - III B",
+            "Angular JS - AJS - V A"
+        ],
+        "Apoorva MS": [
+            "Social Connect and Responsibility - SCR - III C",
+            "Angular JS - AJS - V B"
+        ],
+        "Ashwini K": [
+            "Samskrutika Kannada | Balake Kannada - BK - III A",
+            "Angular JS - AJS - V C"
+        ],
+        "Jalapreetha J": [
+            "Samskrutika Kannada | Balake Kannada - BK - III B"
+        ],
+        "Kavyashree H L": [
+            "Samskrutika Kannada | Balake Kannada - BK - III C"
+        ],
+        "Manisha Mehta": [
+            "Programming in C++ - CPP - III A"
+        ],
+        "N. Deepashree": [
+            "Programming in C++ - CPP - III B",
+            "Advanced AI and ML - AIML - VII A"
+        ],
+        "Pooja M": [
+            "Programming in C++ - CPP - III C",
+            "Advanced AI and ML - AIML - VII B"
+        ],
+        "Poornima H S": [
+            "Automata Theory and compiler Design - ATC - V A",
+            "Advanced AI and ML - AIML - VII C"
+        ],
+        "Rashmi B C": [
+            "Automata Theory and compiler Design - ATC - V B",
+            "Cloud Computing - CC - VII A"
+        ],
+        "Sajitha N": [
+            "Automata Theory and compiler Design - ATC - V C",
+            "Cloud Computing - CC - VII B"
+        ],
+        "Seema G S": [
+            "Computer Networks - CN - V A",
+            "Cloud Computing - CC - VII C",
+            "NoSQL Data Base - NoSQL - VII B"
+        ],
+        "Soumya Tarapur": [
+            "Computer Networks - CN - V B",
+            "Social Network Analysis - SNA - VII A",
+            "NoSQL Data Base - NoSQL - VII C"
+        ],
+        "Suhasini Bagalkot": [
+            "Computer Networks - CN - V C",
+            "Social Network Analysis - SNA - VII B",
+            "Introduction to Big Data - BD - VII A"
+        ],
+        "Vani Zunjarwad": [
+            "Database Management Systems - DBMS - V A",
+            "Social Network Analysis - SNA - VII C",
+            "Introduction to Big Data - BD - VII B"
+        ],
+        "Vinutha D": [
+            "Database Management Systems - DBMS - V B",
+            "NoSQL Data Base - NoSQL - VII A",
+            "Introduction to Big Data - BD - VII C"
+        ]
+    },
+    {
+        "VII": {
+            "B": {
+                "0": {
+                    "4": "-"
+                },
+                "1": {
+                    "4": "-"
+                },
+                "2": {
+                    "4": "-"
+                },
+                "3": {
+                    "4": "-"
+                },
+                "4": {
+                    "4": "-"
+                },
+                "5": {
+                    "4": "-"
+                }
+            },
+            "A": {
+                "0": {
+                    "4": "-"
+                },
+                "1": {
+                    "4": "-"
+                },
+                "2": {
+                    "4": "-"
+                },
+                "3": {
+                    "4": "-"
+                },
+                "4": {
+                    "4": "-"
+                },
+                "5": {
+                    "4": "-"
+                }
+            },
+            "C": {
+                "0": {
+                    "4": "-"
+                },
+                "1": {
+                    "4": "-"
+                },
+                "2": {
+                    "4": "-"
+                },
+                "3": {
+                    "4": "-"
+                },
+                "4": {
+                    "4": "-"
+                },
+                "5": {
+                    "4": "-"
+                }
+            }
+        },
+        "III": {
+            "B": {
+                "0": {
+                    "4": "-"
+                },
+                "1": {
+                    "4": "-"
+                },
+                "2": {
+                    "4": "-"
+                },
+                "3": {
+                    "4": "-"
+                },
+                "4": {
+                    "4": "-"
+                },
+                "5": {
+                    "4": "-"
+                }
+            },
+            "A": {
+                "0": {
+                    "4": "-"
+                },
+                "1": {
+                    "4": "-"
+                },
+                "2": {
+                    "4": "-"
+                },
+                "3": {
+                    "4": "-"
+                },
+                "4": {
+                    "4": "-"
+                },
+                "5": {
+                    "4": "-"
+                }
+            },
+            "C": {
+                "0": {
+                    "4": "-"
+                },
+                "1": {
+                    "4": "-"
+                },
+                "2": {
+                    "4": "-"
+                },
+                "3": {
+                    "4": "-"
+                },
+                "4": {
+                    "4": "-"
+                },
+                "5": {
+                    "4": "-"
+                }
+            }
+        },
+        "V": {
+            "B": {
+                "0": {
+                    "4": "-"
+                },
+                "1": {
+                    "4": "-"
+                },
+                "2": {
+                    "4": "-"
+                },
+                "3": {
+                    "4": "-"
+                },
+                "4": {
+                    "4": "-"
+                },
+                "5": {
+                    "4": "-"
+                }
+            },
+            "A": {
+                "0": {
+                    "4": "-"
+                },
+                "1": {
+                    "4": "-"
+                },
+                "2": {
+                    "4": "-"
+                },
+                "3": {
+                    "4": "-"
+                },
+                "4": {
+                    "4": "-"
+                },
+                "5": {
+                    "4": "-"
+                }
+            },
+            "C": {
+                "0": {
+                    "4": "-"
+                },
+                "1": {
+                    "4": "-"
+                },
+                "2": {
+                    "4": "-"
+                },
+                "3": {
+                    "4": "-"
+                },
+                "4": {
+                    "4": "-"
+                },
+                "5": {
+                    "4": "-"
+                }
+            }
+        }
+    },
+    {
+        "Ramesh Babu H S": {},
+        "Andhe Pallavi": {},
+        "Manjuprakash R": {},
+        "Rajesh Eswarawaka": {},
+        "Harsha S": {},
+        "K V Rama Satish": {},
+        "Mallikarjun H M": {},
+        "Mamatha S K": {},
+        "Narendra Kumar": {},
+        "Pavithra G S": {},
+        "Priyanga P": {},
+        "Shruthi U": {},
+        "Usha M": {},
+        "Anupriya": {},
+        "Apoorva MS": {},
+        "Ashwini K": {},
+        "Jalapreetha J": {},
+        "Kavyashree H L": {},
+        "Manisha Mehta": {},
+        "N. Deepashree": {},
+        "Pooja M": {},
+        "Poornima H S": {},
+        "Rashmi B C": {},
+        "Sajitha N": {},
+        "Seema G S": {},
+        "Soumya Tarapur": {},
+        "Suhasini Bagalkot": {},
+        "Vani Zunjarwad": {},
+        "Vinutha D": {},
+        "Math Faculty": {}
+    },
+    {
+        "III": {},
+        "IV": {},
+        "V": {},
+        "VI": {},
+        "VII": {},
+        "VIII": {}
+    }
+]
