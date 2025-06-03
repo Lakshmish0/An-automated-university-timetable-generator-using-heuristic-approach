@@ -24,7 +24,6 @@ __Timetable Generator__ is a desktop application that provides a simple and quic
    ```bash
    pip install -r requirements.txt
 4. **Run the Project**
-- Windows
    ```bash
    python ui_controller.py
 ****
